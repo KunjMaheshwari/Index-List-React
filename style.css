@@ -1,0 +1,14 @@
+.container{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+table{
+    border: 2px solid black;
+    margin:auto;
+    padding: 0px;
+}
+
+table tr td{
+    width: 30%;
+    text-align: center;
+}
